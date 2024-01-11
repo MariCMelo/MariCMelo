@@ -1,13 +1,18 @@
-Hi 👋 My name is Marília Melo
+Hi 👋 My name is Marília Melo!
 =============================
 
 FullStack Developer
 -------------------
 
-A fun fact about me is that I'm a master in Entomology(Study of the Insects). I belive looking for bugs is my destiny! Gotta Catch'em All 🐛
+A fun fact about me is that I'm a Master in Entomology (Study of the Insects). 
+I belive looking for bugs is my destiny! 
 
-* 🌍  I'm based in São Paulo - Brazilthr
-* ✉️  You can contact me at [marilia.correa.melo@gmail.com](mailto:marilia.correa.melo@gmail.com)
+🐛Gotta Catch'em All 🐛
+
+* 🌍 I'm based in São Paulo - Brazil
+* 🛠️ I'm currently working with JS, TS, Node and React
+* 🧠 I'm Studing Python
+* ✉️ You can contact me at [marilia.correa.melo@gmail.com](mailto:marilia.correa.melo@gmail.com)
 
 ### Skills
 
