@@ -11,7 +11,7 @@ I belive looking for bugs is my destiny!
 
 * 🌍 I'm based in São Paulo - Brazil
 * 🛠️ I'm currently working with JS, TS, Node and React
-* 🧠 I'm Studing Python and C#
+* 🧠 I'm Studing Java
 * ✉️ You can contact me at [marilia.correa.melo@gmail.com](mailto:marilia.correa.melo@gmail.com)
 
 ### Skills
